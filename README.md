@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student at the Faculty of Science, Sfax-Tunisia (FSS)<br>🌱 Currently Learning: HTML, CSS, and JavaScript to build dynamic and responsive web applications.<br>💡 Skills in Progress: Strengthening problem-solving, debugging, and design capabilities.<br>📢 Open to Opportunities: Enthusiastic about collaborating on projects, learning from others, and exploring new ideas.<br>⚡ Fast Learner: Adapt quickly to new technologies and thrive in dynamic environments.<br>✨ Future Goals: Aspiring to deepen my expertise in front-end development and expand into full-stack development.<br>🌟 Personal Motto: "Every line of code is a step closer to innovation!"
+🎓 Student at the Faculty of Science, Sfax-Tunisia (FSS)<br>💡 Skills in Progress: Strengthening problem-solving, debugging, and design capabilities.<br>📢 Open to Opportunities: Enthusiastic about collaborating on projects, learning from others, and exploring new ideas.<br>⚡ Fast Learner: Adapt quickly to new technologies and thrive in dynamic environments.<br>✨ Future Goals: Aspiring to deepen my expertise in front-end development and expand into full-stack development.<br>🌟 Personal Motto: "Every line of code is a step closer to innovation!"
 
 
 ## 🌐 Socials:
