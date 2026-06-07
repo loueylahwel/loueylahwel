@@ -1,52 +1,186 @@
-# About Me
+<div align="center">
 
-I am an engineering student specializing in Data Engineering based in Sfax, Tunisia. Passionate about data infrastructure and technology, I focus on building efficient systems that transform raw data into valuable, actionable insights. I thrive on solving complex architectural problems, continuously learning new methodologies, and collaborating with teams to build modern, scalable solutions that drive impactful decisions.
+```
+██╗      ██████╗ ██╗   ██╗███████╗██╗   ██╗    ██╗      █████╗ ██╗  ██╗██╗    ██╗███████╗██╗
+██║     ██╔═══██╗██║   ██║██╔════╝╚██╗ ██╔╝    ██║     ██╔══██╗██║  ██║██║    ██║██╔════╝██║
+██║     ██║   ██║██║   ██║█████╗   ╚████╔╝     ██║     ███████║███████║██║ █╗ ██║█████╗  ██║
+██║     ██║   ██║██║   ██║██╔══╝    ╚██╔╝      ██║     ██╔══██║██╔══██║██║███╗██║██╔══╝  ██║
+███████╗╚██████╔╝╚██████╔╝███████╗   ██║       ███████╗██║  ██║██║  ██║╚███╔███╔╝███████╗███████╗
+╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Engineering+Student;Big+Data+%26+Distributed+Systems;Building+Scalable+Data+Infrastructure;Apache+Spark+%7C+Hadoop+%7C+Iceberg;Sfax%2C+Tunisia" alt="Typing SVG" />
 
-### Core Stack and Technical Focus
-
-* **Data Engineering:** Designing scalable ETL/ELT pipelines, relational database architecture, and automated data ingestion streams.
-* **Platform Engineering & GitOps:** Orchestrating infrastructure with Kubernetes, Helm, and Terraform to deploy distributed clusters.
-* **Distributed Systems:** Working with containerized ecosystems and real-time processing frameworks including Apache Spark, Kafka, Airflow, and Trino.
-
----
-
-# Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,scala,postgres,kafka,spark,airflow,kubernetes,terraform,helm,git,docker,linux" />
-  </a>
-</p>
+</div>
 
 ---
 
-# GitHub Stats
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=loueylahwel&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=loueylahwel&theme=dark&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loueylahwel)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loueylahwel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loueylahwel@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=loueylahwel&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/loueylahwel)
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=loueylahwel&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
-</p>
+</div>
 
 ---
 
-# Connect With Me
+## About Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/loueylahwel" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
+I am an engineering student specializing in **Data Engineering** at the Faculty of Sciences of Sfax, Tunisia. Passionate about data infrastructure and distributed systems, I focus on building efficient pipelines and platforms that transform raw, unstructured data into valuable, actionable insights.
+
+I thrive on solving complex architectural problems — from orchestrating multi-node Hadoop/Spark clusters to designing medallion lakehouse architectures. I continuously explore new methodologies in real-time processing, federated learning, and cloud-native data warehousing.
+
+```python
+louey = {
+    "location"    : "Sfax, Tunisia",
+    "education"   : "Engineering Cycle — Data Engineering",
+    "focus"       : ["Big Data", "Distributed Systems", "Data Pipelines", "MLOps"],
+    "currently"   : "Building scalable data infrastructure",
+    "languages"   : ["Arabic (Native)", "English (Professional)", "French (Limited)"],
+    "contact"     : "loueylahwel@gmail.com"
+}
+```
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=loueylahwel&icon=0&color=0" alt="Profile Views" />
-  </a>
-</p>
+## Tech Stack
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Big Data & Distributed Systems**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Iceberg-3EAAAF?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+**Infrastructure & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+**Databases**
+
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Visualization & BI**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-FF7F00?style=for-the-badge&logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>Automated Multi-Node Distributed Cluster Orchestrator</strong></summary>
+<br>
+A self-service platform for provisioning Apache Hadoop and Spark clusters via an async pipeline. Built with FastAPI, Celery, Redis, Terraform, and Ansible. Features JWT-based RBAC, real-time status streaming, and a fully containerized deployment stack with a monitoring layer.
+
+**Stack:** `FastAPI` `Celery` `Redis` `Terraform` `Ansible` `Docker Compose`
+</details>
+
+<details>
+<summary><strong>GitHub Archive Trend & Virality Analytics Platform</strong></summary>
+<br>
+End-to-end analytics platform ingesting GH Archive data through a Bronze-Silver-Gold Medallion architecture on Apache Iceberg and Spark. Includes a virality scoring engine, tech-stack trend analysis, and time-travel queries backed by LocalStack S3 and Iceberg REST Catalog.
+
+**Stack:** `Apache Spark` `Apache Iceberg` `LocalStack S3` `Medallion Architecture`
+</details>
+
+<details>
+<summary><strong>Intelligent Schema-Aware Web Scraping Framework</strong></summary>
+<br>
+A Python-based framework for automated schema discovery and structural HTML analysis. Features modular parsing and extraction pipelines with reusable data models for downstream analytics and warehousing — designed for production-ready data ingestion.
+
+**Stack:** `Python` `HTML Parsing` `ETL Pipelines` `Data Modeling`
+</details>
+
+<details>
+<summary><strong>Text-to-SQL Local Agent (ClickHouse + LLM)</strong></summary>
+<br>
+A fully local Text-to-SQL system integrating FastAPI, ClickHouse, and an LLM runtime. Implements schema introspection, SQL validation, and Dockerized multi-service deployment for natural language querying over analytical databases.
+
+**Stack:** `FastAPI` `ClickHouse` `LLM` `Docker`
+</details>
+
+<details>
+<summary><strong>Federated Learning Anomaly Detection System</strong></summary>
+<br>
+LSTM autoencoder models for time-series anomaly detection within a federated learning architecture. Includes preprocessing pipelines, feature engineering, and integration into distributed model aggregation workflows for network security analytics.
+
+**Stack:** `LSTM` `Federated Learning` `Time-Series` `Feature Engineering`
+</details>
+
+<details>
+<summary><strong>Real-Time Analytical Data Warehouse</strong></summary>
+<br>
+Azure-hosted serverless data warehouse with automated ingestion via Azure Function Apps. Applied advanced data modeling for high-frequency financial data streams. Real-time dashboards via Grafana and Apache Superset, with OLAP queries and materialized views.
+
+**Stack:** `Azure` `Azure Function Apps` `Grafana` `Apache Superset` `OLAP`
+</details>
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|---|---|
+| Learning AI Through Visualization | Columbia+ |
+| CCNA: Introduction to Networks | Cisco Networking Academy |
+| Building Data Pipelines with Apache Airflow | 365 Data Science |
+| Advanced SQL for Data Engineering | 365 Data Science |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=loueylahwel&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=loueylahwel&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=loueylahwel&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loueylahwel/loueylahwel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loueylahwel/loueylahwel/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/loueylahwel/loueylahwel/output/github-snake.svg" />
+</picture>
+
+---
+
+<div align="center">
+
+*"The goal is to turn data into information, and information into insight."*
+
+</div>
