@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Apache+Spark+%7C+Hadoop+%7C+Iceberg+%7C+FastAPI+%7C+Terraform;Sfax%2C+Tunisia" alt="Typing SVG stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Chill;Sfax%2C+Tunisia" alt="Typing SVG stack" />
 
 <br/><br/>
 
