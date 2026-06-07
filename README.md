@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Louey+Lahwel;Data+Engineering+Student;Big+Data+%26+Distributed+Systems;Building+Scalable+Data+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Louey+Lahwel" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Apache+Spark+%7C+Hadoop+%7C+Iceberg+%7C+FastAPI+%7C+Terraform;Sfax%2C+Tunisia" alt="Typing SVG subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Engineering+Student;Big+Data+%26+Distributed+Systems;Building+Scalable+Data+Infrastructure" alt="Typing SVG subtitle" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Apache+Spark+%7C+Hadoop+%7C+Iceberg+%7C+FastAPI+%7C+Terraform;Sfax%2C+Tunisia" alt="Typing SVG stack" />
 
 <br/><br/>
 
