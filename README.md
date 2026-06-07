@@ -145,18 +145,18 @@ Azure-hosted serverless data warehouse with automated ingestion via Azure Functi
 
 ---
 
+---
 ## Certifications
 
-| **Building Customized LLMs with OpenAI** | Columbia+ |
-| Learning AI Through Visualization | Columbia+ |
-| CCNA: Introduction to Networks | Cisco Networking Academy |
-| Building Data Pipelines with Apache Airflow | 365 Data Science |
-| Advanced SQL for Data Engineering | 365 Data Science |
-
+| Certification                                      | Issuer                  |
+|----------------------------------------------------|-------------------------|
+| **Building Customized LLMs with OpenAI**           | Columbia+               |
+| Learning AI Through Visualization                  | Columbia+               |
+| CCNA: Introduction to Networks                     | Cisco Networking Academy|
+| Building Data Pipelines with Apache Airflow        | 365 Data Science        |
+| Advanced SQL for Data Engineering                  | 365 Data Science        |
 ---
 
 <div align="center">
-
 *"The goal is to turn data into information, and information into insight."*
-
 </div>
