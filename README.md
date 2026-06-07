@@ -1,21 +1,12 @@
 <div align="center">
 
-```
-██╗      ██████╗ ██╗   ██╗███████╗██╗   ██╗    ██╗      █████╗ ██╗  ██╗██╗    ██╗███████╗██╗
-██║     ██╔═══██╗██║   ██║██╔════╝╚██╗ ██╔╝    ██║     ██╔══██╗██║  ██║██║    ██║██╔════╝██║
-██║     ██║   ██║██║   ██║█████╗   ╚████╔╝     ██║     ███████║███████║██║ █╗ ██║█████╗  ██║
-██║     ██║   ██║██║   ██║██╔══╝    ╚██╔╝      ██║     ██╔══██║██╔══██║██║███╗██║██╔══╝  ██║
-███████╗╚██████╔╝╚██████╔╝███████╗   ██║       ███████╗██║  ██║██║  ██║╚███╔███╔╝███████╗███████╗
-╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Louey+Lahwel;Data+Engineering+Student;Big+Data+%26+Distributed+Systems;Building+Scalable+Data+Infrastructure" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Engineering+Student;Big+Data+%26+Distributed+Systems;Building+Scalable+Data+Infrastructure;Apache+Spark+%7C+Hadoop+%7C+Iceberg;Sfax%2C+Tunisia" alt="Typing SVG" />
+<br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Apache+Spark+%7C+Hadoop+%7C+Iceberg+%7C+FastAPI+%7C+Terraform;Sfax%2C+Tunisia" alt="Typing SVG subtitle" />
 
----
-
-<div align="center">
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loueylahwel)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loueylahwel)
@@ -32,15 +23,15 @@ I am an engineering student specializing in **Data Engineering** at the Faculty 
 
 I thrive on solving complex architectural problems — from orchestrating multi-node Hadoop/Spark clusters to designing medallion lakehouse architectures. I continuously explore new methodologies in real-time processing, federated learning, and cloud-native data warehousing.
 
-```python
-louey = {
-    "location"    : "Sfax, Tunisia",
-    "education"   : "Engineering Cycle — Data Engineering",
-    "focus"       : ["Big Data", "Distributed Systems", "Data Pipelines", "MLOps"],
-    "currently"   : "Building scalable data infrastructure",
-    "languages"   : ["Arabic (Native)", "English (Professional)", "French (Limited)"],
-    "contact"     : "loueylahwel@gmail.com"
-}
+---
+
+```
+  location   ->  Sfax, Tunisia
+  education  ->  Engineering Cycle, Data Engineering — Faculty of Sciences of Sfax
+  focus      ->  Big Data  |  Distributed Systems  |  Data Pipelines  |  MLOps
+  currently  ->  Building scalable data infrastructure
+  languages  ->  Arabic (Native)  |  English (Professional)  |  French (Limited)
+  contact    ->  loueylahwel@gmail.com
 ```
 
 ---
@@ -59,7 +50,7 @@ louey = {
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Iceberg-3EAAAF?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-3EAAAF?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 **Infrastructure & Orchestration**
@@ -100,6 +91,7 @@ louey = {
 A self-service platform for provisioning Apache Hadoop and Spark clusters via an async pipeline. Built with FastAPI, Celery, Redis, Terraform, and Ansible. Features JWT-based RBAC, real-time status streaming, and a fully containerized deployment stack with a monitoring layer.
 
 **Stack:** `FastAPI` `Celery` `Redis` `Terraform` `Ansible` `Docker Compose`
+<br><br>
 </details>
 
 <details>
@@ -108,6 +100,7 @@ A self-service platform for provisioning Apache Hadoop and Spark clusters via an
 End-to-end analytics platform ingesting GH Archive data through a Bronze-Silver-Gold Medallion architecture on Apache Iceberg and Spark. Includes a virality scoring engine, tech-stack trend analysis, and time-travel queries backed by LocalStack S3 and Iceberg REST Catalog.
 
 **Stack:** `Apache Spark` `Apache Iceberg` `LocalStack S3` `Medallion Architecture`
+<br><br>
 </details>
 
 <details>
@@ -116,6 +109,7 @@ End-to-end analytics platform ingesting GH Archive data through a Bronze-Silver-
 A Python-based framework for automated schema discovery and structural HTML analysis. Features modular parsing and extraction pipelines with reusable data models for downstream analytics and warehousing — designed for production-ready data ingestion.
 
 **Stack:** `Python` `HTML Parsing` `ETL Pipelines` `Data Modeling`
+<br><br>
 </details>
 
 <details>
@@ -124,6 +118,7 @@ A Python-based framework for automated schema discovery and structural HTML anal
 A fully local Text-to-SQL system integrating FastAPI, ClickHouse, and an LLM runtime. Implements schema introspection, SQL validation, and Dockerized multi-service deployment for natural language querying over analytical databases.
 
 **Stack:** `FastAPI` `ClickHouse` `LLM` `Docker`
+<br><br>
 </details>
 
 <details>
@@ -132,6 +127,7 @@ A fully local Text-to-SQL system integrating FastAPI, ClickHouse, and an LLM run
 LSTM autoencoder models for time-series anomaly detection within a federated learning architecture. Includes preprocessing pipelines, feature engineering, and integration into distributed model aggregation workflows for network security analytics.
 
 **Stack:** `LSTM` `Federated Learning` `Time-Series` `Feature Engineering`
+<br><br>
 </details>
 
 <details>
@@ -140,6 +136,7 @@ LSTM autoencoder models for time-series anomaly detection within a federated lea
 Azure-hosted serverless data warehouse with automated ingestion via Azure Function Apps. Applied advanced data modeling for high-frequency financial data streams. Real-time dashboards via Grafana and Apache Superset, with OLAP queries and materialized views.
 
 **Stack:** `Azure` `Azure Function Apps` `Grafana` `Apache Superset` `OLAP`
+<br><br>
 </details>
 
 ---
@@ -152,30 +149,6 @@ Azure-hosted serverless data warehouse with automated ingestion via Azure Functi
 | CCNA: Introduction to Networks | Cisco Networking Academy |
 | Building Data Pipelines with Apache Airflow | 365 Data Science |
 | Advanced SQL for Data Engineering | 365 Data Science |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=loueylahwel&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=loueylahwel&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=loueylahwel&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loueylahwel/loueylahwel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loueylahwel/loueylahwel/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/loueylahwel/loueylahwel/output/github-snake.svg" />
-</picture>
 
 ---
 
