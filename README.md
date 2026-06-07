@@ -30,12 +30,12 @@ I thrive on solving complex architectural problems — from orchestrating multi-
 ---
 
 ```
-  location    Sfax, Tunisia
-  education   Engineering Cycle, Data Engineering — Faculty of Sciences of Sfax
-  focus       Big Data  |  Distributed Systems  |  Data Pipelines  |  MLOps
-  currently  Building scalable data infrastructure
-  languages  Arabic (Native)  |  English (Professional)  |  French (Limited)
-  contact    loueylahwel@gmail.com
+  location   ->  Sfax, Tunisia
+  education  ->  Engineering Cycle, Data Engineering — Faculty of Sciences of Sfax
+  focus      ->  Big Data  |  Distributed Systems  |  Data Pipelines  |  MLOps
+  currently  ->  Building scalable data infrastructure
+  languages  ->  Arabic (Native)  |  English (Professional)  |  French (Limited)
+  contact    ->  loueylahwel@gmail.com
 ```
 
 ---
@@ -71,6 +71,9 @@ I thrive on solving complex architectural problems — from orchestrating multi-
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Visualization & BI**
 
@@ -145,18 +148,20 @@ Azure-hosted serverless data warehouse with automated ingestion via Azure Functi
 
 ---
 
----
 ## Certifications
 
-| Certification                                      | Issuer                  |
-|----------------------------------------------------|-------------------------|
-| **Building Customized LLMs with OpenAI**           | Columbia+               |
-| Learning AI Through Visualization                  | Columbia+               |
-| CCNA: Introduction to Networks                     | Cisco Networking Academy|
-| Building Data Pipelines with Apache Airflow        | 365 Data Science        |
-| Advanced SQL for Data Engineering                  | 365 Data Science        |
+| Certification | Issuer |
+|---|---|
+| Building Customized LLMs with OpenAI | Columbia+ |
+| Learning AI Through Visualization | Columbia+ |
+| CCNA: Introduction to Networks | Cisco Networking Academy |
+| Building Data Pipelines with Apache Airflow | 365 Data Science |
+| Advanced SQL for Data Engineering | 365 Data Science |
+
 ---
 
 <div align="center">
+
 *"The goal is to turn data into information, and information into insight."*
+
 </div>
