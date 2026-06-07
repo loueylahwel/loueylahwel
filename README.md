@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Louey+Lahwel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=L0u3y+L4hw3l;L%40uey+L%40hwel;Louey+Lahwel;L%7Bu3y+L%7Bhw3l;Louey+Lahwel" alt="Glitch Name" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Chill;Sfax%2C+Tunisia" alt="Typing SVG stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=There+is+no+place+like+127.0.0.1;it+works+on+my+machine...;It%27s+not+a+bug%2C+it%27s+a+feature;sudo+rm+-rf+career+--no-preserve-sanity;git+commit+-m+%22fixed%22+%23+(didn%27t+fix+it);404%3A+sleep+not+found;have+you+tried+turning+it+off+and+on+again%3F;Sfax%2C+Tunisia+%7C+powered+by+caffeine" alt="Troll text" />
 
 <br/><br/>
 
