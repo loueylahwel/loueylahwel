@@ -30,12 +30,12 @@ I thrive on solving complex architectural problems — from orchestrating multi-
 ---
 
 ```
-  location   ->  Sfax, Tunisia
-  education  ->  Engineering Cycle, Data Engineering — Faculty of Sciences of Sfax
-  focus      ->  Big Data  |  Distributed Systems  |  Data Pipelines  |  MLOps
-  currently  ->  Building scalable data infrastructure
-  languages  ->  Arabic (Native)  |  English (Professional)  |  French (Limited)
-  contact    ->  loueylahwel@gmail.com
+  location    Sfax, Tunisia
+  education   Engineering Cycle, Data Engineering — Faculty of Sciences of Sfax
+  focus       Big Data  |  Distributed Systems  |  Data Pipelines  |  MLOps
+  currently  Building scalable data infrastructure
+  languages  Arabic (Native)  |  English (Professional)  |  French (Limited)
+  contact    loueylahwel@gmail.com
 ```
 
 ---
@@ -147,8 +147,7 @@ Azure-hosted serverless data warehouse with automated ingestion via Azure Functi
 
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
+| **Building Customized LLMs with OpenAI** | Columbia+ |
 | Learning AI Through Visualization | Columbia+ |
 | CCNA: Introduction to Networks | Cisco Networking Academy |
 | Building Data Pipelines with Apache Airflow | 365 Data Science |
