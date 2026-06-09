@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loueylahwel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/louey-lahwel-06a617413)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loueylahwel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loueylahwel@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=loueylahwel&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/loueylahwel)
