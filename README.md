@@ -1,103 +1,87 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=L0u3y+L4hw3l;L%40uey+L%40hwel;Louey+Lahwel;L%7Bu3y+L%7Bhw3l;Louey+Lahwel" alt="Glitch Name" />
+<img src="assets/ascii-skull.gif" width="520" alt="ascii skull animation" />
 
-<br/>
+# Louey Lahwel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Engineering+Student;Big+Data+%26+Distributed+Systems;Building+Scalable+Data+Infrastructure" alt="Typing SVG subtitle" />
+**Data Engineering Student** · Sfax, Tunisia
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=There+is+no+place+like+127.0.0.1;it+works+on+my+machine...;It%27s+not+a+bug%2C+it%27s+a+feature;sudo+rm+-rf+career+--no-preserve-sanity;git+commit+-m+%22fixed%22+%23+(didn%27t+fix+it);404%3A+sleep+not+found;have+you+tried+turning+it+off+and+on+again%3F;Sfax%2C+Tunisia+%7C+powered+by+caffeine" alt="Troll text" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loueylahwel/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loueylahwel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loueylahwel@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=loueylahwel&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/loueylahwel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loueylahwel/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loueylahwel)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loueylahwel@gmail.com)
 
 </div>
 
----
+## About
 
-## About Me
+Engineering student specializing in **Data Engineering** at the Faculty of Sciences of Sfax, Tunisia. I build data infrastructure and distributed systems — pipelines and platforms that turn raw, unstructured data into actionable insight.
 
-I am an engineering student specializing in **Data Engineering** at the Faculty of Sciences of Sfax, Tunisia. Passionate about data infrastructure and distributed systems, I focus on building efficient pipelines and platforms that transform raw, unstructured data into valuable, actionable insights.
-
-I thrive on solving complex architectural problems — from orchestrating multi-node Hadoop/Spark clusters to designing medallion lakehouse architectures. I continuously explore new methodologies in real-time processing, federated learning, and cloud-native data warehousing.
-
----
+I enjoy solving architectural problems: orchestrating multi-node Hadoop/Spark clusters, designing medallion lakehouses, real-time processing, federated learning, and cloud-native warehousing.
 
 ```
-  location   ->  Sfax, Tunisia
-  education  ->  Engineering Cycle, Data Engineering — Faculty of Sciences of Sfax
-  focus      ->  Big Data  |  Distributed Systems  |  Data Pipelines  |  MLOps
-  currently  ->  Building scalable data infrastructure
-  languages  ->  Arabic (Native)  |  English (Professional)  |  French (Limited)
-  contact    ->  loueylahwel@gmail.com
+location   ->  Sfax, Tunisia
+education  ->  Engineering Cycle, Data Engineering — Faculty of Sciences of Sfax
+focus      ->  Big Data | Distributed Systems | Data Pipelines | MLOps
+currently  ->  Building scalable data infrastructure
+contact    ->  loueylahwel@gmail.com
 ```
 
----
-
-## Tech Stack
+## Stack
 
 **Programming**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Big Data & Distributed Systems**
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-3EAAAF?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-000000?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 **Infrastructure & Orchestration**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=white)
 
 **Databases**
 
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Visualization & BI**
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-FF7F00?style=for-the-badge&logo=apache&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-000000?style=for-the-badge&logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white)
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## Featured Projects
+## Projects
 
 <details>
 <summary><strong>Automated Multi-Node Distributed Cluster Orchestrator</strong></summary>
 <br>
 A self-service platform for provisioning Apache Hadoop and Spark clusters via an async pipeline. Built with FastAPI, Celery, Redis, Terraform, and Ansible. Features JWT-based RBAC, real-time status streaming, and a fully containerized deployment stack with a monitoring layer.
-
-**Stack:** `FastAPI` `Celery` `Redis` `Terraform` `Ansible` `Docker Compose`
+<br><br>
+<code>FastAPI</code> <code>Celery</code> <code>Redis</code> <code>Terraform</code> <code>Ansible</code> <code>Docker Compose</code>
 <br><br>
 </details>
 
@@ -105,8 +89,8 @@ A self-service platform for provisioning Apache Hadoop and Spark clusters via an
 <summary><strong>GitHub Archive Trend & Virality Analytics Platform</strong></summary>
 <br>
 End-to-end analytics platform ingesting GH Archive data through a Bronze-Silver-Gold Medallion architecture on Apache Iceberg and Spark. Includes a virality scoring engine, tech-stack trend analysis, and time-travel queries backed by LocalStack S3 and Iceberg REST Catalog.
-
-**Stack:** `Apache Spark` `Apache Iceberg` `LocalStack S3` `Medallion Architecture`
+<br><br>
+<code>Apache Spark</code> <code>Apache Iceberg</code> <code>LocalStack S3</code> <code>Medallion Architecture</code>
 <br><br>
 </details>
 
@@ -114,8 +98,8 @@ End-to-end analytics platform ingesting GH Archive data through a Bronze-Silver-
 <summary><strong>Intelligent Schema-Aware Web Scraping Framework</strong></summary>
 <br>
 A Python-based framework for automated schema discovery and structural HTML analysis. Features modular parsing and extraction pipelines with reusable data models for downstream analytics and warehousing — designed for production-ready data ingestion.
-
-**Stack:** `Python` `HTML Parsing` `ETL Pipelines` `Data Modeling`
+<br><br>
+<code>Python</code> <code>HTML Parsing</code> <code>ETL Pipelines</code> <code>Data Modeling</code>
 <br><br>
 </details>
 
@@ -123,8 +107,8 @@ A Python-based framework for automated schema discovery and structural HTML anal
 <summary><strong>Text-to-SQL Local Agent (ClickHouse + LLM)</strong></summary>
 <br>
 A fully local Text-to-SQL system integrating FastAPI, ClickHouse, and an LLM runtime. Implements schema introspection, SQL validation, and Dockerized multi-service deployment for natural language querying over analytical databases.
-
-**Stack:** `FastAPI` `ClickHouse` `LLM` `Docker`
+<br><br>
+<code>FastAPI</code> <code>ClickHouse</code> <code>LLM</code> <code>Docker</code>
 <br><br>
 </details>
 
@@ -132,8 +116,8 @@ A fully local Text-to-SQL system integrating FastAPI, ClickHouse, and an LLM run
 <summary><strong>Federated Learning Anomaly Detection System</strong></summary>
 <br>
 LSTM autoencoder models for time-series anomaly detection within a federated learning architecture. Includes preprocessing pipelines, feature engineering, and integration into distributed model aggregation workflows for network security analytics.
-
-**Stack:** `LSTM` `Federated Learning` `Time-Series` `Feature Engineering`
+<br><br>
+<code>LSTM</code> <code>Federated Learning</code> <code>Time-Series</code> <code>Feature Engineering</code>
 <br><br>
 </details>
 
@@ -141,12 +125,10 @@ LSTM autoencoder models for time-series anomaly detection within a federated lea
 <summary><strong>Real-Time Analytical Data Warehouse</strong></summary>
 <br>
 Azure-hosted serverless data warehouse with automated ingestion via Azure Function Apps. Applied advanced data modeling for high-frequency financial data streams. Real-time dashboards via Grafana and Apache Superset, with OLAP queries and materialized views.
-
-**Stack:** `Azure` `Azure Function Apps` `Grafana` `Apache Superset` `OLAP`
+<br><br>
+<code>Azure</code> <code>Azure Function Apps</code> <code>Grafana</code> <code>Apache Superset</code> <code>OLAP</code>
 <br><br>
 </details>
-
----
 
 ## Certifications
 
@@ -163,5 +145,7 @@ Azure-hosted serverless data warehouse with automated ingestion via Azure Functi
 <div align="center">
 
 *"The goal is to turn data into information, and information into insight."*
+
+![](https://komarev.com/ghpvc/?username=loueylahwel&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
 </div>
