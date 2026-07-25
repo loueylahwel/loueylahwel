@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loueylahwel/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loueylahwel)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loueylahwel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=loueylahwel@gmail.com)
 
 </div>
 
@@ -25,7 +25,7 @@ focus      ->  Big Data | Distributed Systems | Data Pipelines | MLOps
 currently  ->  Building scalable data infrastructure
 ```
 
-[`contact    ->  loueylahwel@gmail.com`](mailto:loueylahwel@gmail.com)
+[`contact    ->  loueylahwel@gmail.com`](https://mail.google.com/mail/?view=cm&fs=1&to=loueylahwel@gmail.com)
 
 ## Stack
 
