@@ -25,8 +25,6 @@ focus      ->  Big Data | Distributed Systems | Data Pipelines | MLOps
 currently  ->  Building scalable data infrastructure
 ```
 
-[`contact    ->  loueylahwel@gmail.com`](https://mail.google.com/mail/?view=cm&fs=1&to=loueylahwel@gmail.com)
-
 ## Stack
 
 **Programming**
