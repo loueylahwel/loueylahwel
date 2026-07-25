@@ -23,8 +23,9 @@ location   ->  Sfax, Tunisia
 education  ->  Engineering Cycle, Data Engineering — Faculty of Sciences of Sfax
 focus      ->  Big Data | Distributed Systems | Data Pipelines | MLOps
 currently  ->  Building scalable data infrastructure
-contact    ->  loueylahwel@gmail.com
 ```
+
+[`contact    ->  loueylahwel@gmail.com`](mailto:loueylahwel@gmail.com)
 
 ## Stack
 
