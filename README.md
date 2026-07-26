@@ -143,7 +143,7 @@ Azure-hosted serverless data warehouse with automated ingestion via Azure Functi
 
 <div align="center">
 
-*"The goal is to turn data into information, and information into insight."*
+*"If you make a formal pull request, I'll show you my source code."*
 
 ![](https://komarev.com/ghpvc/?username=loueylahwel&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
